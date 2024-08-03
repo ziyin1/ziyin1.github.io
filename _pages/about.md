@@ -2,24 +2,43 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Ph.D. student at Tsinghua and VSR at Stanford
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: me.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  # more_info: >
+  #   <p>555 your office number</p>
+  #   <p>123 your address street</p>
+  #   <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
+awards: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Contact:\
+&emsp; <a href="mailto:{{ site.email | encode_email }}" title="email"><i class="fas fa-envelope"></i></a> myinzi123[AT]gmail[DOT]com \
+&emsp; <a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}" title="Google Scholar"><i class="ai ai-google-scholar"></i></a> Google Scholar 
+&emsp; <a href="https://github.com/{{ site.github_username }}" title="GitHub"><i class="fab fa-github"></i></a> Github {{site.github_username }} 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Affiliation:\
+&emsp;[LangCog Lab](https://langcog.stanford.edu/),\
+&emsp;[Department of Psychology](https://psychology.stanford.edu/),\
+&emsp;[Stanford University](https://www.tsinghua.edu.cn/), California, 94301
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+&emsp;[Tsinghua Laboratory of Brain and Intelligence(THBI)](https://brain.tsinghua.edu.cn/en/Research1/Research_Centers/AI_of_Brain___Cognition_Center.htm),\
+&emsp;[Department of Psychology](https://www.psych.tsinghua.edu.cn/xlxxen/),\
+&emsp;[Tsinghua University](https://www.tsinghua.edu.cn/), Beijing, 100084
+
+<hr />
+
+I am a Ph.D. student in the [Tsinghua Laboratory of Brain and Intelligence(THBI)](https://brain.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/),  advised by [Prof. Jia Liu](https://brain.tsinghua.edu.cn/en/info/1010/1010.htm). I'm currently visiting the [Department of Psychology](https://psychology.stanford.edu/) at Stanford Univeristy, advised by [Michael C. Frank](https://web.stanford.edu/~mcfrank/). I am currently planning to graduate in June 2025.
+
+I have an interdisciplinary background in EE, CS, and Psychology, with skill sets in Robotics, AI, and Cognitive Science.
+
+My current research focuses on Embodied AI Learning, aiming to explore how humans learn from egocentric sensory experiences through exploration and interaction in their environment. I investigate the development of spatial concepts by comparing human and machine behaviors in spatial perception and interaction. This includes studying Egocentric RL Agents and human navigation in virtual environments, as well as children's cognitive development in real-world interactions.
+
+Additionally, I research the safety of embodied intelligence, aiming to develop reliable and trustworthy AI by identifying and addressing anomalous behaviors in robots.
