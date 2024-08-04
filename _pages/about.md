@@ -39,6 +39,6 @@ I am a Ph.D. student in the [Tsinghua Laboratory of Brain and Intelligence(THBI)
 
 I have an interdisciplinary background in EE, CS, and Psychology, with skill sets in Robotics, AI, and Cognitive Science.
 
-My current research focuses on Embodied AI Learning, aiming to explore how humans learn from egocentric sensory experiences through exploration and interaction in their environment. I investigate the development of spatial concepts by comparing human and machine behaviors in spatial perception and interaction. This includes studying Egocentric RL Agents and human navigation in virtual environments, as well as children's cognitive development in real-world interactions.
+My current research focuses on Embodied AI Learning, exploring how humans acquire knowledge from egocentric sensory experiences through active environmental interaction. This work investigates the development of spatial concepts by comparing the spatial perception behaviors of humans and machines. Key areas of study include Egocentric Reinforcement Learning (RL) Agents, human navigation in virtual environments, and the cognitive development of spatial understanding in children within real-world contexts. By integrating insights from artificial intelligence and cognitive science, my research aims to advance our understanding of spatial learning and contribute to the development of more intuitive and adaptive AI systems.
 
-Additionally, I research the safety of embodied intelligence, aiming to develop reliable and trustworthy AI by identifying and addressing anomalous behaviors in robots.
+Additionally, I am interested in embodied security, which aims to develop reliable and trustworthy AI by identifying and addressing anomalous behaviors in robots.
