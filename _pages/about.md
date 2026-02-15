@@ -29,14 +29,13 @@ Affiliation:\
 &emsp;[Department of Psychology](https://psychology.stanford.edu/),\
 &emsp;[Stanford University](https://www.tsinghua.edu.cn/), California, 94301
 
-&emsp;[Tsinghua Laboratory of Brain and Intelligence(THBI)](https://brain.tsinghua.edu.cn/en/Research1/Research_Centers/AI_of_Brain___Cognition_Center.htm),\
+&emsp;[Department of Psychological and Cognitive Sciences](https://brain.tsinghua.edu.cn/en/Research1/Research_Centers/AI_of_Brain___Cognition_Center.htm),\
 &emsp;[Department of Psychology](https://www.psych.tsinghua.edu.cn/xlxxen/),\
 &emsp;[Tsinghua University](https://www.tsinghua.edu.cn/), Beijing, 100084
 
 <hr />
 
-I am a Ph.D. student in the [Tsinghua Laboratory of Brain and Intelligence(THBI)](https://brain.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/),  advised by [Prof. Jia Liu](https://brain.tsinghua.edu.cn/en/info/1010/1010.htm). I'm currently visiting the [Department of Psychology](https://psychology.stanford.edu/) at Stanford Univeristy, advised by [Michael C. Frank](https://web.stanford.edu/~mcfrank/). I am currently planning to graduate in June 2025.
-
+I am a Ph.D. student in the [Department of Psychological and Cognitive Sciences, Tsinghua University](https://brain.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/),  advised by [Prof. Jia Liu](https://brain.tsinghua.edu.cn/en/info/1010/1010.htm). I was a Visiting Student Researcher at the [Department of Psychology](https://psychology.stanford.edu/), Stanford University (Feb. 2024 – Aug. 2024), advised by [Michael C. Frank](https://web.stanford.edu/~mcfrank/). 
 I have an interdisciplinary background in EE, CS, and Psychology, with skill sets in Robotics, AI, and Cognitive Science.
 
 My current research focuses on Embodied AI Learning, exploring how humans acquire knowledge from egocentric sensory experiences through active environmental interaction. This work investigates the development of spatial concepts by comparing the spatial perception behaviors of humans and machines. Key areas of study include Egocentric Reinforcement Learning (RL) Agents, human navigation in virtual environments, and the cognitive development of spatial understanding in children within real-world contexts. By integrating insights from artificial intelligence and cognitive science, my research aims to advance our understanding of spatial learning and contribute to the development of more intuitive and adaptive AI systems.
